@@ -10,8 +10,7 @@
 ## Table of contents
 1. [Introduction](#-introduction-)
 2. [Exercices](#-exercices-)
-3. [Languages & Tools](#-languages-&-tools-)
-4. [Languages](#-languages-)
+3. [Languages & Tools](#-languages--tools-)
 5. [Authors](#-authors-)
 6. [GitHub](#-have-a-look-at-my-github-)
 7. [Contact](#-contact-me-)
@@ -35,7 +34,7 @@ Mr. Robot lost his password. Yes, it can happen to the best of us. I know what y
 Mr. Robot ~~hacked~~ found a server containing a file written in binary. He wants to convert it to hexadecimal to reduce
 its size. With this program, he just has to enter the binary number and it will be converted automatically.
 
-## 🛠 Languages & Tools🛠
+## 🛠 Languages & Tools 🛠
 
 [<img alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
 [<img alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" />][webdevplaylist]
