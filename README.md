@@ -47,7 +47,7 @@ Hassina AYACHI aka Nyssa0
 ```
 
 ## 👀 Have a look at my [GitHub][GitHub] 👀
-<img alt="git" width="300px" src="https://media3.giphy.com/media/487L0pNZKONFN01oHO/giphy.gif?cid=790b7611243e5aec32fb90d5f0413a6f1f5685fcdbf9dbaf&rid=giphy.gif&ct=g" width="200px"/>
+<img alt="git" width="25%" src="https://media3.giphy.com/media/487L0pNZKONFN01oHO/giphy.gif?cid=790b7611243e5aec32fb90d5f0413a6f1f5685fcdbf9dbaf&rid=giphy.gif&ct=g" width="200px"/>
 
 ## 🤙🏼 Contact me 🤙🏼
 
@@ -63,7 +63,7 @@ Hassina AYACHI aka Nyssa0
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?bgColor=%23212529&textColor=%23ffddd2&qColor=%23FE4676&aColor=%23F3A628&borderColor=%23000&codeColor=%23f9c74f)
 
-<img alt="gojo" src="https://c.tenor.com/H-NXH7iOy_gAAAAC/gojo-satoru-jujutsu-kaisen.gif" width="200px"/>
+<img alt="gojo" width="25%" src="https://c.tenor.com/H-NXH7iOy_gAAAAC/gojo-satoru-jujutsu-kaisen.gif" width="200px"/>
 
 [portfolio]: https://hassinaayachi.wixsite.com/portfolio
 [GitHub]: https://github.com/Nyssa0
